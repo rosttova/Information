@@ -7,9 +7,10 @@ Welcome To My GitHub Profile! </div>
 </div>
 <div id="badges">
   <div id="header" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%BD%D0%B0-%D1%81%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B2%D0%B0-b8597723a/)">
+<div id="badges">
+  <a href="https://www.linkedin.com/in/%D0%B0%D0%BD%D0%BD%D0%B0-%D1%81%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B2%D0%B0-b8597723a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> </div>
+  </a></div></div>
  
  
 
